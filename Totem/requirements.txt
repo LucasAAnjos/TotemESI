@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-opencv-python
-streamlit
-requests
-pillow
